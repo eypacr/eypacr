@@ -1,11 +1,10 @@
-# 🚀 Merhaba, Ben Eyyüp ACAR!
+# <p align="center"> 🚀 Merhaba, Ben Eyyüp ACAR! </p>
 
-## Full Stack Web Geliştirici | .NET & React ⚡
+## <p align="center"> Full Stack Web Geliştirici | .NET & React ⚡ </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
 </p>
-
 ---
 
 ## 🌟 Hakkımda  
