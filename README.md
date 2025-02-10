@@ -49,7 +49,7 @@
 
 ## 📫 Bana Ulaşın  
 📩 **E-posta:** [eyyupacar98@gmail.com](mailto:eyyupacar98@gmail.com)  
-📌 **Portföy:** [eypacr.dev](https://eypacr.dev)  
+📌 **Portföy:** [eypacr.github.io](https://eypacr.github.io/)  
 
 ---
 
